@@ -1,0 +1,4 @@
+Function = function
+Set = const/var
+End Function = end
+For Each x in x = for x in x
